@@ -5,7 +5,4 @@ GitPractise
 
 1. Add content  1
 
-1. error
-
-1. 1234
-
+1. Resolving Bug
